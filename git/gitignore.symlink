@@ -1,5 +1,12 @@
 .DS_Store
+Desktop.ini
+Thumbs.db
 .svn
 *~
 *.swp
 *.rbc
+.Spotlight-V100
+.Trashes
+.idea
+*.sublime-*
+.vagrant
