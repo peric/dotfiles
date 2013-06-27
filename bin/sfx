@@ -1,7 +1,0 @@
-#!/bin/sh
-#
-# toggle xdebug and run symfony server
-
-mpenv xd
-killall php
-app/console server:run &
