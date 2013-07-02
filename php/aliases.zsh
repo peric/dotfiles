@@ -1,0 +1,1 @@
+alias sf="app/console"
