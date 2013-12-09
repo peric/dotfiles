@@ -29,6 +29,12 @@ files in there. Anything with an extension of `.zsh` will get automatically
 included into your shell. Anything with an extension of `.symlink` will get
 symlinked without extension into `$HOME` when you run `script/bootstrap`.
 
+## iterm2
+
+When you change your `iterm2` settings you'll need to run `osx/read-iterm2-settings.sh` which will
+convert your iTerm2 `.plist` settings into XML format and copy it to `osx` directory so you can commit
+changes into your dotfiles (this) repository.
+
 ## components
 
 There's a few special files in the hierarchy.
